@@ -16,3 +16,6 @@ I am a full-stack web developer from 🇮🇳 India.
 - [Unveiling the Magic Behind React: Virtual DOM, Diffing, Reconciliation, React Fiber](https://parveenpal.hashnode.dev/unveiling-the-magic-behind-react-virtual-dom-diffing-reconciliation-react-fiber-incremental-rendering)
 - [Essential s𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐇𝐞𝐚𝐝𝐞𝐫𝐬 𝐢𝐧 𝐀𝐏𝐈](https://parveenpal.hashnode.dev/essential-s)
 <!-- BLOG-POST-LIST:END -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulparveen01&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
